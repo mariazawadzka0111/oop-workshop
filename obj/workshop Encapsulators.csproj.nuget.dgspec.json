@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj": {}
+    "c:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj": {}
   },
   "projects": {
-    "C:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj": {
+    "c:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj",
+        "projectUniqueName": "c:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj",
         "projectName": "workshop Encapsulators",
-        "projectPath": "C:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj",
+        "projectPath": "c:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\workshop Encapsulators.csproj",
         "packagesPath": "C:\\Users\\themo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\obj\\",
+        "outputPath": "c:\\Users\\themo\\OneDrive\\Desktop\\workshop Encapsulators\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\themo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("workshop Encapsulators")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acd2ae6f89d56af921f8115f5c68041fd34392c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("workshop Encapsulators")]
 [assembly: System.Reflection.AssemblyTitleAttribute("workshop Encapsulators")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
